@@ -1,0 +1,1 @@
+import{f as t,D as a,o,c as n,a as e,t as _,j as c,_ as i}from"./entry.BOBPfMFk.js";const r=e("h1",null,"Diagnostic Test",-1),D=t({__name:"[DiagTestID]",setup(l){const s=a();return(u,p)=>(o(),n("div",null,[r,e("p",null,"Diagnostic Test ID: "+_(c(s).params.DiagTestID),1)]))}}),g=i(D,[["__file","[DiagTestID].vue"]]);export{g as default};

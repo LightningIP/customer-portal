@@ -1,0 +1,1 @@
+import{f as s,D as t,t as r,j as o,_}from"./entry.BOBPfMFk.js";const a=s({__name:"[UserID]",setup(n){const e=t();return(p,u)=>" This page will show content for user with ID "+r(o(e).params.UserID)}}),f=_(a,[["__file","[UserID].vue"]]);export{f as default};
