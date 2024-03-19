@@ -1,0 +1,1 @@
+import{_ as l,c as o,b4 as r,o as t}from"./entry.SIUp9reF.js";const a={};function c(e,n){return t(),o("div",null,[r(e.$slots,"default")])}const f=l(a,[["render",c],["__file","fullpage.vue"]]);export{f as default};

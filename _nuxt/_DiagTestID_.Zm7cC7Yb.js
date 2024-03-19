@@ -1,0 +1,1 @@
+import{f as t,E as a,o,c as n,a as e,t as _,k as c,_ as i}from"./entry.SIUp9reF.js";const r=e("h1",null,"Diagnostic Test",-1),l=t({__name:"[DiagTestID]",setup(u){const s=a();return(D,p)=>(o(),n("div",null,[r,e("p",null,"Diagnostic Test ID: "+_(c(s).params.DiagTestID),1)]))}}),g=i(l,[["__file","[DiagTestID].vue"]]);export{g as default};

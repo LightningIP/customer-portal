@@ -1,1 +1,0 @@
-import{f as o,$ as t,ah as s,o as a,c as n,a as _,_ as c}from"./entry.BOBPfMFk.js";const u=_("h1",null,"You have been logged out",-1),r=[u],l=o({__name:"logout",setup(f){const e=t();return s(async()=>{await e.logout()}),(i,p)=>(a(),n("div",null,r))}}),g=c(l,[["__file","logout.vue"]]);export{g as default};

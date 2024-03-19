@@ -1,1 +1,0 @@
-import{_ as e,c,o as r}from"./entry.BOBPfMFk.js";const o={};function t(a,s){return r(),c("div",null,"Search for a customer here")}const _=e(o,[["render",t],["__file","customerSearch.vue"]]);export{_ as default};
