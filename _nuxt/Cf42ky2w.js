@@ -1,0 +1,1 @@
+import{_ as l,c as a,ba as o,o as r}from"./YHmFcSV0.js";const t={};function c(e,n){return r(),a("div",null,[o(e.$slots,"default")])}const f=l(t,[["render",c],["__file","fullpage.vue"]]);export{f as default};
