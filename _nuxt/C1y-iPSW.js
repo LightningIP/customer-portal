@@ -1,0 +1,1 @@
+import{_ as l,c as o,bb as r,o as t}from"./CyO2JrAG.js";const a={};function c(e,n){return t(),o("div",null,[r(e.$slots,"default")])}const f=l(a,[["render",c],["__file","fullpage.vue"]]);export{f as default};
